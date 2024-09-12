@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvaluacionU1</string>
+    <string name="todo">TODO</string>
+    <string name="agregar_nueva_tarea">Agregar nueva tarea</string>
+</resources>
